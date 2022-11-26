@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow", "LeTai.TrueShadow.csproj", "{ab4c2262-9acd-1f46-ec86-0d3e302e3f30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ae22f56f-67b6-809c-aba5-f36410deed94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow.Demo", "LeTai.TrueShadow.Demo.csproj", "{26b2b3bf-05a3-2f11-f06c-89a24b9e2ada}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{a9480abb-e60c-0ac2-89cd-2b212756b8c5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow.Editor", "LeTai.TrueShadow.Editor.csproj", "{5ae30b09-109d-2890-584a-cdc8b9db666c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ab4c2262-9acd-1f46-ec86-0d3e302e3f30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ab4c2262-9acd-1f46-ec86-0d3e302e3f30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ae22f56f-67b6-809c-aba5-f36410deed94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ae22f56f-67b6-809c-aba5-f36410deed94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26b2b3bf-05a3-2f11-f06c-89a24b9e2ada}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26b2b3bf-05a3-2f11-f06c-89a24b9e2ada}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a9480abb-e60c-0ac2-89cd-2b212756b8c5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a9480abb-e60c-0ac2-89cd-2b212756b8c5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ae30b09-109d-2890-584a-cdc8b9db666c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ae30b09-109d-2890-584a-cdc8b9db666c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
